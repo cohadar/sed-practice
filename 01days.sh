@@ -1,0 +1,1 @@
+sed s/day/night/ $(basename $0 .sh).txt
