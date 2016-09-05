@@ -1,1 +1,2 @@
-sed s/day/night/ $(basename $0 .sh).txt
+# Substitute the first occurrence of 'day' with 'night'
+sed s/day/night/ 01days.in
